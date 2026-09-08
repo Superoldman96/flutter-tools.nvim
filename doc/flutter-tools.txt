@@ -1,5 +1,5 @@
 *flutter-tools.txt*
-                             For Neovim >= 0.11    Last change: 2026 August 06
+                          For Neovim >= 0.11    Last change: 2026 September 08
 
 ==============================================================================
 Table of Contents                            *flutter-tools-table-of-contents*
@@ -451,6 +451,8 @@ Highlight groups that are user configurable to change the appearance of certain
 UI elements.
 
 - `FlutterToolsOutlineIndentGuides` - indent guides for the outline window
+- `FlutterToolsDimmed` - de-emphasised text: closing tags, outline return types and menu hints.
+    Links to Nvim 0.13’s built-in `Dimmed` group where available, and to `Comment` otherwise.
 
 
 WIDGET GUIDES
